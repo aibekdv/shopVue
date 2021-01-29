@@ -1,0 +1,54 @@
+{
+    "products": [{
+            "image": "1.jpg",
+            "name": "Samsung Galaxy S20",
+            "price": "23000.76456",
+            "article": "T1",
+            "available": true,
+            "category": "Samsung"
+
+        },
+        {
+            "image": "2.jpg",
+            "name": "Samsung Galaxy Note 10+",
+            "price": "28000.1254",
+            "article": "T2",
+            "available": true,
+            "category": "Samsung"
+
+        },
+        {
+            "image": "3.jpg",
+            "name": "Samsung Galaxy A51",
+            "price": "16000.4563",
+            "article": "T3",
+            "available": true,
+            "category": "Samsung"
+        },
+        {
+            "image": "4.jpg",
+            "name": "Honor 10 Lite",
+            "price": "13110.1254",
+            "article": "T4",
+            "available": true,
+            "category": "Honor"
+        },
+        {
+            "image": "5.jpg",
+            "name": "T-shirt 5",
+            "price": "9000.1254",
+            "article": "T5",
+            "available": true,
+            "category": "Samsung"
+
+        },
+        {
+            "image": "6.jpg",
+            "name": "Samsung Galaxy A71",
+            "price": "16400.4321",
+            "article": "T6",
+            "available": true,
+            "category": "Samsung"
+        }
+    ]
+}

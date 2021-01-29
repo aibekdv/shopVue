@@ -1,0 +1,16 @@
+@import './vars.scss';
+.btn {
+    padding: $padding/1.5 $padding*2;
+    background-color: $green_bg;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: $radius;
+    &:hover {
+        background-color: $green_bg_hov;
+    }
+    &:active {
+        background-color: #176943;
+    }
+}
